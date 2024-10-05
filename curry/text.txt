@@ -1,0 +1,8 @@
+In JavaScript, call(), apply(), and bind() are methods used
+to set the this context for functions. Here’s a brief explanation of 
+each method along with examples:
+
+
+call()
+Usage: The call() method calls a function with a given this value and arguments provided individually.
+Syntax: func.call(thisArg, arg1, arg2, ...)
